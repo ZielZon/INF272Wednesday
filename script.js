@@ -1,3 +1,3 @@
 function something() {
-    alert("Something")
+    alert("OOF")
 }
